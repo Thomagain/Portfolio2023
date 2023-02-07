@@ -1,7 +1,7 @@
 "use client"
 import React from 'react'
 import Image from 'next/image'
-import java from '../../../images/java.png'
+import next from '../../../images/next.png'
 import js from '../../../images/java-script.png'
 import php from '../../../images/php.png'
 import reac from '../../../images/react.png'
@@ -32,7 +32,7 @@ function Experience() {
           <Image src={reac} alt="React" className='w-24 h-24 bject-cover rounded-lg m-4 brightness-75 hover:brightness-125' />
           <Image src={githu} alt="Github" className='w-24 h-24 bject-cover rounded-lg m-4 brightness-75 hover:brightness-125' />
           <Image src={larave} alt="Laravel" className='w-40 h-24 object-cover rounded-lg m-4 brightness-75 hover:brightness-125' />
-          <Image src={java} alt="java" className='w-24 h-24 object-cover rounded-lg m-4 brightness-75 hover:brightness-125' />
+          <Image src={next} alt="java" className='w-24 h-24 object-cover rounded-lg m-4 brightness-75 hover:brightness-125' />
           </Slide>
           
         </div>
@@ -48,7 +48,7 @@ function Experience() {
           <Image src={reac} alt="React" className='w-24 h-24 bject-cover rounded-lg m-4 brightness-75 hover:brightness-125' />
           <Image src={githu} alt="Github" className='w-24 h-24 bject-cover rounded-lg m-4 brightness-75 hover:brightness-125' />
           <Image src={larave} alt="Laravel" className='w-40 h-24 object-cover rounded-lg m-4 brightness-75 hover:brightness-125' />
-          <Image src={java} alt="java" className='w-24 h-24 object-cover rounded-lg m-4 brightness-75 hover:brightness-125' />
+          <Image src={next} alt="java" className='w-24 h-24 object-cover rounded-lg m-4 brightness-75 hover:brightness-125' />
         </div>
       </div>
       {/* logo */}

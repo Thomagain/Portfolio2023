@@ -3,6 +3,7 @@ import Navigation from "./Navigation"
 import Experience from "./experience/page"
 import About from "./about/page"
 import Contact from "./contact/page"
+import Forfolio from "./portfolio/page"
 
 
 export default function RootLayout({
@@ -16,6 +17,7 @@ export default function RootLayout({
         {children}
         <About/>
         <Experience/>
+        <Forfolio/>
         <Contact/>
         <Footer />
         </section>

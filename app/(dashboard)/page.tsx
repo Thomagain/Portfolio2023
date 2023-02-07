@@ -14,7 +14,7 @@ function dashboard() {
         <div className="flex md:flex items-center justify-between bg-gradient-to-r from-black  via-gray-800 to-emerald-900 max-h-fit">
           <div className="md:w-1/2 text-right">
             <div className=" text-xl text-white text-start font-bold relative items-center justify-start px-8">
-              <h1 className='items-center justify-end text-6xl'> Software Developer</h1>
+              <h1 className='items-center justify-end text-6xl text-emerald-600'> Software Developer</h1>
               <br />
 
               <p>I am Full Stack Developer with over five years knowledgeable in</p>
